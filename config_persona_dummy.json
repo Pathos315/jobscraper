@@ -1,0 +1,18 @@
+{
+    "name": "Bob Doe",
+    "role": "this role",
+    "values": "enthusiasm and originality",
+    "my_background": "stuff in my background",
+    "years": "four",
+    "services": "my services",
+    "email": "my.email@mail",
+    "portfolio": "my.portfolio.com",
+    "phone_number": "XXX-XXX-XXXX",
+    "skills":   ["graphic design","user experience", 
+                "user interface design", "user experience design", "user research", "prototyping",
+                "python","html","css","communication","copywriting","copyediting","brand strategy",
+                "color theory", "typography", "digital marketing", "marketing", "digital experiences",
+                "motion graphics", "storyboarding", "user journeys","social media marketing"],
+    "tools":    ["figma","principle","adobe illustrator","adobe photoshop",
+                "adobe indesign","adobe creative suite","sketch","adobe after effects","invision","miro"]
+}

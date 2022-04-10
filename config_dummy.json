@@ -1,0 +1,39 @@
+{
+    "export_dir": "Job Scraper Exports",
+    "url_builtin": "https://api.builtin.com/services/job-retrieval/legacy-jobs",
+    "brand_names": "./words/brand_names.txt",
+    "surnames": "./words/surnames.txt",
+    "total_pages": 2,
+    "per_page": 20,
+    "search_query": "( Director of Product Design | Director of Design | Creative Director | Design Lead ) -careers -job -jobs -indeed -investors -positions",
+    "font_regular": "./fonts/IBMPlexSans-Regular.ttf",
+    "font_bold": "./fonts/IBMPlexSans-Bold.ttf",
+    "font_italic": "./fonts/IBMPlexSans-Italic.ttf",
+    "font_bolditalic": "./fonts/IBMPlexSans-BoldItalic.ttf",
+    "header": {
+        "User Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+    },
+    "excitement_words": [
+        "thrilled",
+        "excited",
+        "intrigued",
+        "delighted",
+        "glad"
+    ],
+    "querystring": {
+        "categories": "148",
+        "subcategories": "",
+        "experiences": "1,1-3,3-5,3,5,0",
+        "industry": "",
+        "regions": "",
+        "locations": "32,33,19,34,42,37,36,35,52,36",
+        "remote": "2",
+        "search": "",
+        "sortStrategy": "recency",
+        "job_locations": "5|32,5|33,5|19,5|34,5|42,5|37,5|36,5|35,5|52,5|36",
+        "company_locations": "5|32,5|33,5|19,5|34,5|42,5|37,5|36,5|35,5|52,5|36",
+        "jobs_board": "true",
+        "elite": "true",
+        "national": "false"
+    }
+}
